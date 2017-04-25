@@ -4,5 +4,6 @@
 
 ## Git 教程 --- feature-B
 
-## Git 教程 --- faeture-C
+## Git 教程 --- feature-C
 
+## Git 教程 --- feature-D
